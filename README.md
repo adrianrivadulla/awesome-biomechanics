@@ -494,6 +494,9 @@ This section in under construction
 :page_facing_up: [paper](https://doi.org/10.1242/jeb.064527) |
 :dvd: [dataset](https://simtk.org/projects/runningspeeds)
 
+* **Development and validation of FootNet; a new kinematic algorithm to improve foot-strike and toe-off detection in treadmill running** by Adrian R Rivadulla et al. (2021). Features (distal tibia anteroposterior velocity, ankle dorsi/plantar flexion angle, anteroposterior and vertical foot centre of mass velocities) and ground truth labels (vertical ground reaction forces) and notebooks for model development replication. 📄 [paper](https://doi.org/10.1371/journal.pone.0248608) |
+* :dvd: [dataset](https://doi.org/10.15125/BATH-00965)
+
 ### Instrumented Prostheses :chart_with_upwards_trend:
 
 * **Grand Challenge Competition to Predict In Vivo Knee Loads** By BJ Fregly et al. (2012). Data sets from instrumented knee prostheses used in the "Grand Challenge Competition". Data include medical images and segmentations (for most participants), tibial contact force, video motion, ground reaction, muscle EMG, muscle strength, static and dynamic imaging, and implant geometry data for six patients. This is the most completely and easily accessible dataset of measurements from instrumented prostheses.   
